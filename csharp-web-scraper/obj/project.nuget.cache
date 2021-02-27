@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEXrXkowkN5Df5/8zbY/ATb+6IDUyfyUpeGrKtjtHuz0IUJ9LC1vrNQM5Tn6EP1pveVqzU2YFIlT0DqDAjWqnA==",
+  "success": true,
+  "projectFilePath": "F:\\Bigger things\\csharp-web-scraper\\csharp-web-scraper\\csharp-web-scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zel\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512"
+  ],
+  "logs": []
+}

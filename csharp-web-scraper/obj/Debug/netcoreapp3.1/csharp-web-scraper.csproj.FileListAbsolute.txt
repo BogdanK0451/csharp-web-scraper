@@ -1,0 +1,15 @@
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\csharp-web-scraper.exe
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\csharp-web-scraper.deps.json
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\csharp-web-scraper.runtimeconfig.json
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\csharp-web-scraper.runtimeconfig.dev.json
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\csharp-web-scraper.dll
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\csharp-web-scraper.pdb
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.csprojAssemblyReference.cache
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.AssemblyInfoInputs.cache
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.AssemblyInfo.cs
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.csproj.CoreCompileInputs.cache
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.dll
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.pdb
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.genruntimeconfig.cache
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+F:\Bigger things\csharp-web-scraper\csharp-web-scraper\obj\Debug\netcoreapp3.1\csharp-web-scraper.csproj.CopyComplete
